@@ -1,5 +1,3 @@
-# gutenberg-examples
+# 301 Moved Permanently
 
-Examples for extending
-[Gutenberg](https://github.com/WordPress/gutenberg)
-with plugins which create blocks.
+Location: https://github.com/WordPress/gutenberg-examples
